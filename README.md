@@ -15,4 +15,19 @@ The dashboard supports interactive filtering by region and disaster type, and in
 
 ## 🖼️ Preview
 
+<img width="1783" height="1178" alt="Image" src="https://github.com/user-attachments/assets/bf6f6611-2af9-47ac-814f-4d3f76014190" />
 
+## 🚀 Getting Started
+
+You can try the dashboard instantly using Google Colab:
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/yourrepo/blob/main/disaster_dashboard.ipynb)
+
+Or run it locally:
+
+### 🖥️ Run Locally
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/yourusername/yourrepo.git
+   cd yourrepo
